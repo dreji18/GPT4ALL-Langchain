@@ -9,7 +9,7 @@ from langchain.document_loaders import WebBaseLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.document_loaders.csv_loader import CSVLoader
 
-loader = CSVLoader(file_path=r'D:\Personal Projects\gpt4all\Marvel Datastore.csv', source_column="Sentences")
+loader = CSVLoader(file_path=r'.\Marvel Datastore.csv', source_column="Sentences")
 data = loader.load()
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0)
