@@ -9,3 +9,7 @@ Learn how to optimize your information extraction workflow, streamline your code
 - LinkedIn Post: https://www.linkedin.com/posts/deepak-john-reji_information-extraction-with-gpt4all-models-activity-7086689248904441856-9u4v?utm_source=share&utm_medium=member_desktop
 
 ![thumbnail](https://github.com/dreji18/GPT4ALL-Langchain/assets/49631017/433b198c-6fa0-45fc-a4de-0c3f92ace83a)
+
+You can support me :)
+
+<a href="https://www.buymeacoffee.com/deepakjohnreji" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
