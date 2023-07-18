@@ -7,3 +7,5 @@ Learn how to optimize your information extraction workflow, streamline your code
 
 - Video link: https://lnkd.in/gm7c5gy7
 - LinkedIn Post: https://www.linkedin.com/posts/deepak-john-reji_information-extraction-with-gpt4all-models-activity-7086689248904441856-9u4v?utm_source=share&utm_medium=member_desktop
+
+![thumbnail](https://github.com/dreji18/GPT4ALL-Langchain/assets/49631017/433b198c-6fa0-45fc-a4de-0c3f92ace83a)
